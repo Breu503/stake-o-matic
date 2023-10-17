@@ -1,1 +1,1 @@
-#  stake-o-matic
+#  *stake-o-matic*
